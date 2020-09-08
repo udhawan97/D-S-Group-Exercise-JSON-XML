@@ -1,10 +1,10 @@
-courseId,name,credits,enrollmentCap,enrollmentId,studentId,courseId,startDate,grade
-BUSX2001,Economics,3,45,3003,1001,BUSX2001,2020-08-31,
-BUSX2001,Economics,3,45,3004,1002,BUSX2001,2020-08-31,
-BUSX2001,Economics,3,45,3009,1003,BUSX2001,2020-08-31,
-BUSX2002,"Applied Statistics",2,20,3005,1002,BUSX2002,2020-08-31,
-BUSX2002,"Applied Statistics",2,20,3008,1003,BUSX2002,2020-08-31,
-BUSX2003,"Spreadsheet Modeling",2,55,3001,1001,BUSX2003,2020-08-31,
-BUSX2003,"Spreadsheet Modeling",2,55,3006,1002,BUSX2003,2020-08-31,
-BUSX2004,"Pricing Management",2,50,3002,1001,BUSX2004,2020-01-12,A
-BUSX2004,"Pricing Management",2,50,3007,1002,BUSX2004,2020-01-12,B-
+courseId,name,credits,enrollmentCap,enrollmentId,studentId,startDate,grade
+BUSX2001,Economics,3,45,3003,1001,2020-08-31,
+BUSX2001,Economics,3,45,3004,1002,2020-08-31,
+BUSX2001,Economics,3,45,3009,1003,2020-08-31,
+BUSX2002,"Applied Statistics",2,20,3005,1002,2020-08-31,
+BUSX2002,"Applied Statistics",2,20,3008,1003,2020-08-31,
+BUSX2003,"Spreadsheet Modeling",2,55,3001,1001,2020-08-31,
+BUSX2003,"Spreadsheet Modeling",2,55,3006,1002,2020-08-31,
+BUSX2004,"Pricing Management",2,50,3002,1001,2020-01-12,A
+BUSX2004,"Pricing Management",2,50,3007,1002,2020-01-12,B-
