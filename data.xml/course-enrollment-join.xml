@@ -7,7 +7,6 @@
 		<enrollmentCap>45</enrollmentCap>
 		<enrollmentId>3003</enrollmentId>
 		<studentId>1001</studentId>
-		<courseId>BUSX2001</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -19,7 +18,6 @@
 		<enrollmentCap>45</enrollmentCap>
 		<enrollmentId>3004</enrollmentId>
 		<studentId>1002</studentId>
-		<courseId>BUSX2001</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -31,7 +29,6 @@
 		<enrollmentCap>45</enrollmentCap>
 		<enrollmentId>3009</enrollmentId>
 		<studentId>1003</studentId>
-		<courseId>BUSX2001</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -43,7 +40,6 @@
 		<enrollmentCap>20</enrollmentCap>
 		<enrollmentId>3005</enrollmentId>
 		<studentId>1002</studentId>
-		<courseId>BUSX2002</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -55,7 +51,6 @@
 		<enrollmentCap>20</enrollmentCap>
 		<enrollmentId>3008</enrollmentId>
 		<studentId>1003</studentId>
-		<courseId>BUSX2002</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -67,7 +62,6 @@
 		<enrollmentCap>55</enrollmentCap>
 		<enrollmentId>3001</enrollmentId>
 		<studentId>1001</studentId>
-		<courseId>BUSX2003</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -79,7 +73,6 @@
 		<enrollmentCap>55</enrollmentCap>
 		<enrollmentId>3006</enrollmentId>
 		<studentId>1002</studentId>
-		<courseId>BUSX2003</courseId>
 		<startDate>2020-08-31</startDate>
 		<grade></grade>
 	</ROW>
@@ -91,7 +84,6 @@
 		<enrollmentCap>50</enrollmentCap>
 		<enrollmentId>3002</enrollmentId>
 		<studentId>1001</studentId>
-		<courseId>BUSX2004</courseId>
 		<startDate>2020-01-12</startDate>
 		<grade>A</grade>
 	</ROW>
