@@ -1,0 +1,92 @@
+[
+	{
+		"studentId" : 1001,
+		"name" : "Harvey Kim",
+		"dob" : "1996-12-12",
+		"enrollmentId" : 3001,
+		"studentId" : 1001,
+		"courseId" : "BUSX2003",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1001,
+		"name" : "Harvey Kim",
+		"dob" : "1996-12-12",
+		"enrollmentId" : 3002,
+		"studentId" : 1001,
+		"courseId" : "BUSX2004",
+		"startDate" : "2020-01-12",
+		"grade" : "A"
+	},
+	{
+		"studentId" : 1001,
+		"name" : "Harvey Kim",
+		"dob" : "1996-12-12",
+		"enrollmentId" : 3003,
+		"studentId" : 1001,
+		"courseId" : "BUSX2001",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1002,
+		"name" : "Emilia Harris",
+		"dob" : "1999-05-06",
+		"enrollmentId" : 3004,
+		"studentId" : 1002,
+		"courseId" : "BUSX2001",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1002,
+		"name" : "Emilia Harris",
+		"dob" : "1999-05-06",
+		"enrollmentId" : 3005,
+		"studentId" : 1002,
+		"courseId" : "BUSX2002",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1002,
+		"name" : "Emilia Harris",
+		"dob" : "1999-05-06",
+		"enrollmentId" : 3006,
+		"studentId" : 1002,
+		"courseId" : "BUSX2003",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1002,
+		"name" : "Emilia Harris",
+		"dob" : "1999-05-06",
+		"enrollmentId" : 3007,
+		"studentId" : 1002,
+		"courseId" : "BUSX2004",
+		"startDate" : "2020-01-12",
+		"grade" : "B-"
+	},
+	{
+		"studentId" : 1003,
+		"name" : "Brian McCallister",
+		"dob" : "1997-04-16",
+		"enrollmentId" : 3008,
+		"studentId" : 1003,
+		"courseId" : "BUSX2002",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	},
+	{
+		"studentId" : 1003,
+		"name" : "Brian McCallister",
+		"dob" : "1997-04-16",
+		"enrollmentId" : 3009,
+		"studentId" : 1003,
+		"courseId" : "BUSX2001",
+		"startDate" : "2020-08-31",
+		"grade" : ""
+	}
+]

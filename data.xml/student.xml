@@ -1,0 +1,20 @@
+<DATA>
+
+	<ROW>
+		<studentId>1001</studentId>
+		<name>Harvey Kim</name>
+		<dob>1996-12-12</dob>
+	</ROW>
+
+	<ROW>
+		<studentId>1002</studentId>
+		<name>Emilia Harris</name>
+		<dob>1999-05-06</dob>
+	</ROW>
+
+	<ROW>
+		<studentId>1003</studentId>
+		<name>Brian McCallister</name>
+		<dob>1997-04-16</dob>
+	</ROW>
+</DATA>

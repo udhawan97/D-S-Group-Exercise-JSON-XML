@@ -1,0 +1,9 @@
+[{"enrollmentId":3001, "studentId":1001, "courseId":"BUSX2003", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3002, "studentId":1001, "courseId":"BUSX2004", "startDate":"2020-01-12", "grade":"A"},
+ {"enrollmentId":3003, "studentId":1001, "courseId":"BUSX2001", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3004, "studentId":1002, "courseId":"BUSX2001", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3005, "studentId":1002, "courseId":"BUSX2002", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3006, "studentId":1002, "courseId":"BUSX2003", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3007, "studentId":1002, "courseId":"BUSX2004", "startDate":"2020-01-12", "grade":"B-"},
+ {"enrollmentId":3008, "studentId":1003, "courseId":"BUSX2002", "startDate":"2020-08-31", "grade":""},
+ {"enrollmentId":3009, "studentId":1003, "courseId":"BUSX2001", "startDate":"2020-08-31", "grade":""}]
